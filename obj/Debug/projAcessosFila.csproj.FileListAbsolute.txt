@@ -1,0 +1,13 @@
+C:\Users\Kim Ochii\Google Drive\IFSP\4º Semestre\ED1I4 - Estruturas de Dados II\Projetos\projAcessosFila\bin\Debug\projAcessosFila.exe.config
+C:\Users\Kim Ochii\Google Drive\IFSP\4º Semestre\ED1I4 - Estruturas de Dados II\Projetos\projAcessosFila\bin\Debug\projAcessosFila.exe
+C:\Users\Kim Ochii\Google Drive\IFSP\4º Semestre\ED1I4 - Estruturas de Dados II\Projetos\projAcessosFila\bin\Debug\projAcessosFila.pdb
+C:\Users\Kim Ochii\Google Drive\IFSP\4º Semestre\ED1I4 - Estruturas de Dados II\Projetos\projAcessosFila\obj\Debug\projAcessosFila.csprojAssemblyReference.cache
+C:\Users\Kim Ochii\Google Drive\IFSP\4º Semestre\ED1I4 - Estruturas de Dados II\Projetos\projAcessosFila\obj\Debug\projAcessosFila.csproj.CoreCompileInputs.cache
+C:\Users\Kim Ochii\Google Drive\IFSP\4º Semestre\ED1I4 - Estruturas de Dados II\Projetos\projAcessosFila\obj\Debug\projAcessosFila.exe
+C:\Users\Kim Ochii\Google Drive\IFSP\4º Semestre\ED1I4 - Estruturas de Dados II\Projetos\projAcessosFila\obj\Debug\projAcessosFila.pdb
+C:\Users\jtana\Downloads\projAcessosFila\bin\Debug\projAcessosFila.exe.config
+C:\Users\jtana\Downloads\projAcessosFila\bin\Debug\projAcessosFila.exe
+C:\Users\jtana\Downloads\projAcessosFila\bin\Debug\projAcessosFila.pdb
+C:\Users\jtana\Downloads\projAcessosFila\obj\Debug\projAcessosFila.csprojAssemblyReference.cache
+C:\Users\jtana\Downloads\projAcessosFila\obj\Debug\projAcessosFila.exe
+C:\Users\jtana\Downloads\projAcessosFila\obj\Debug\projAcessosFila.pdb
